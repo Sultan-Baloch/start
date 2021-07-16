@@ -1,0 +1,7 @@
+Sultan: < the key<br />
+
+     Meer: someValue < the value
+     
+  a_json_style_map: {"K": "V"}<br />
+
+a_json_style_sequence: ["pink", "red", "red", "cat", 123, 234, 345]
